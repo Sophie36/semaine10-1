@@ -18,3 +18,4 @@ Information à relever                Type d'élément à utiliser
   recevoir des mails 
   
   Bien sûr, chacune de ces informations devra être traitée afin que l'on sache si le contenu est bon. Par exemple, si l'utilisateur a bien spécifié son sexe ou bien s'il n'a pas entré de chiffres dans son prénom, etc. Dans notre cas, nos vérifications de contenu ne seront pas très poussées pour la simple et bonne raison que nous n'avons pas encore étudié les « regex » à ce stade du cours, nous nous limiterons donc à la vérification de la longueur de la chaîne ou bien à la présence de certains caractères. Bref, rien d'incroyable, mais cela suffira amplement car le but de ce TP n'est pas vraiment de vous faire analyser le contenu mais plutôt de gérer les événements et le CSS de votre formulaire.
+  
